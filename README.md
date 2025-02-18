@@ -33,6 +33,9 @@
 
 ### Languages
 <p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -96,7 +99,7 @@ Here are some of my notable projects:
 
 ## 🙋‍♂️ About Me
 
-I am a frontend developer with a passion for creating beautiful and functional web applications. My expertise lies in building responsive and user-friendly interfaces using modern technologies like React, Vue.js, and Tailwind CSS. I enjoy solving complex problems and collaborating with teams to deliver high-quality software.
+I am a frontend developer with a passion for creating beautiful and functional web applications. My expertise lies in building responsive and user-friendly interfaces using modern technologies like React, Vue.js, and Tailwind CSS. I also have experience with backend development and databases. Additionally, I enjoy working with programming languages such as C, C++, and Python.
 
 ---
 
