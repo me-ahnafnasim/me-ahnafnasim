@@ -83,11 +83,9 @@
 
 Here are some of my notable projects:
 
-### Project 1: [Project Name](#)
-- **Description**: A brief description of the project.
+### Project 1: [https://abhinobo.com/](#)
+- **Description**: 4th IR.
 - **Tech Stack**: React, Node.js, MongoDB
-- **Screenshot**: 
-  ![Project Screenshot](assets/project1-screenshot.png)
 
 ### Project 2: [Project Name](#)
 - **Description**: Another project description.
