@@ -79,21 +79,7 @@
 
 ---
 
-## 🛠️ Projects
 
-Here are some of my notable projects:
-
-### Project 1: [https://abhinobo.com/](#)
-- **Description**: 4th IR.
-- **Tech Stack**: React, Node.js, MongoDB
-
-### Project 2: [Project Name](#)
-- **Description**: Another project description.
-- **Tech Stack**: Vue.js, Firebase, Tailwind CSS
-- **Screenshot**: 
-  ![Project Screenshot](assets/project2-screenshot.png)
-
----
 
 ## 🙋‍♂️ About Me
 
