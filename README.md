@@ -3,9 +3,6 @@
 <h3 align="center">A passionate Softwere Developer from Bangladesh</h3>
 
 
-<p align="center">
-  
-</p>
 
 ---
 
@@ -62,7 +59,7 @@
 </p>
 
 
----
+
 
 
 
