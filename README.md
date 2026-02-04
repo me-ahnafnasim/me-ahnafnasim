@@ -1,14 +1,6 @@
-
-
-<h3 align="center">A passionate Softwere Developer from Bangladesh</h3>
+<h3 align="center">A passionate Software Developer from Bangladesh</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=me-ahnafnasim&label=Profile%20views&color=0e75b6&style=flat" alt="me-ahnafnasim" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=me-ahnafnasim&theme=onedark" alt="me-ahnafnasim" />
-  </a>
 </p>
 
 ---
@@ -29,7 +21,7 @@
 
 ---
 
-## 💻 Skills
+## 💻 Technologies & Skills
 
 ### Languages
 <p align="center">
@@ -79,7 +71,39 @@
 
 ---
 
+## 📦 Featured Repositories
 
+### 🌟 Most Popular
+<p align="center">
+  <a href="https://github.com/me-ahnafnasim/repo-name-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=me-ahnafnasim&repo=repo-name-1&theme=radical" alt="repo-name-1" />
+  </a>
+  <a href="https://github.com/me-ahnafnasim/repo-name-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=me-ahnafnasim&repo=repo-name-2&theme=radical" alt="repo-name-2" />
+  </a>
+</p>
+
+### 🚀 Recent Projects
+<p align="center">
+  <a href="https://github.com/me-ahnafnasim/repo-name-3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=me-ahnafnasim&repo=repo-name-3&theme=radical" alt="repo-name-3" />
+  </a>
+  <a href="https://github.com/me-ahnafnasim/repo-name-4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=me-ahnafnasim&repo=repo-name-4&theme=radical" alt="repo-name-4" />
+  </a>
+</p>
+
+### 💡 Learning & Practice
+<p align="center">
+  <a href="https://github.com/me-ahnafnasim/repo-name-5">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=me-ahnafnasim&repo=repo-name-5&theme=radical" alt="repo-name-5" />
+  </a>
+  <a href="https://github.com/me-ahnafnasim/repo-name-6">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=me-ahnafnasim&repo=repo-name-6&theme=radical" alt="repo-name-6" />
+  </a>
+</p>
+
+---
 
 ## 🙋‍♂️ About Me
 
@@ -87,16 +111,4 @@ I am a frontend developer with a passion for creating beautiful and functional w
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines.
-
----
-
-Thank you for visiting my repository! 😊
+Thank you for visiting my profile! 😊
