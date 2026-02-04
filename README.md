@@ -81,26 +81,4 @@
 
 
 
-## 🙋‍♂️ About Me
-
-I am a frontend developer with a passion for creating beautiful and functional web applications. My expertise lies in building responsive and user-friendly interfaces using modern technologies like React, Vue.js, and Tailwind CSS. I also have experience with backend development and databases. Additionally, I enjoy working with programming languages such as C, C++, and Python.
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines.
-
----
-
-Thank you for visiting my repository! 😊
-
-
-delete unusual feature just keep the dechlogies that i know, and add a section where show my repo
 
