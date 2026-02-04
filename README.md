@@ -1,9 +1,7 @@
 
 
 <h3 align="center">A passionate Softwere Developer from Bangladesh</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=me-ahnafnasim&label=Profile%20views&color=0e75b6&style=flat  " alt="me-ahnafnasim" />
-</p>
+
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy  ">
