@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero-v4.svg" width="100%" alt="Ahnaf Nasim, full-stack engineer and founder building EdTech SaaS, B2B commerce and growth engines" />
+  <img src="./assets/hero-v6.svg" width="100%" alt="Ahnaf Nasim, full-stack engineer and founder building EdTech SaaS, B2B commerce and growth engines" />
 </p>
 
 <p align="center">
@@ -8,8 +8,4 @@
 
 <p align="center">
   <img src="./assets/beyond-v4.svg" width="100%" alt="SEO playbook (research, architect, publish, convert) and business skills: SaaS strategy, B2B marketplaces, monetisation, go-to-market, brand identity, customer research" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=me-ahnafnasim&style=flat-square&color=3a3f4a&label=profile+views" alt="Profile views" />
 </p>
