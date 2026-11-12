@@ -18,9 +18,5 @@
 </p>
 
 <p align="center">
-  <img src="./assets/work.svg" width="100%" alt="Selected work: eduBro, IELTS Technology, IMAT Prep, Nobosole, PTE and GMAT engines, Study Desk" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=me-ahnafnasim&style=flat-square&color=7c3aed&label=profile+views" alt="Profile views" />
 </p>
