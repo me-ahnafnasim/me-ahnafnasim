@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/growth.svg" width="100%" alt="SEO playbook (research, architect, publish, convert) and business skills: SaaS strategy, B2B marketplaces, monetisation, go-to-market, brand identity, customer research" />
+  <img src="./assets/beyond-code.svg" width="100%" alt="SEO playbook (research, architect, publish, convert) and business skills: SaaS strategy, B2B marketplaces, monetisation, go-to-market, brand identity, customer research" />
 </p>
 
 <p align="center">
