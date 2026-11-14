@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img src="./assets/stack-v4.svg" width="100%" alt="Stack: TypeScript, JavaScript, Python, Java, React, Next.js, Vue, Nuxt, Tailwind, Three.js, GSAP, Node.js, NestJS, Fastify, Express, Prisma, PostgreSQL, MongoDB, Redis, Supabase, Firebase, Stripe, Docker, GitHub Actions, Vercel, AWS S3, Vitest, Jest, Playwright, Claude Code, MCP and more" />
+  <img src="./assets/stack-v5.svg" width="100%" alt="Stack: TypeScript, JavaScript, Python, Java, React, Next.js, Vue, Nuxt, Tailwind, Three.js, GSAP, Node.js, NestJS, Fastify, Express, Prisma, PostgreSQL, MongoDB, Redis, Supabase, Firebase, Stripe, Docker, GitHub Actions, Vercel, AWS S3, EC2, RDS, Route 53, IAM, CloudWatch, Vitest, Jest, Playwright, Claude Code, MCP and more" />
 </p>
 
 <p align="center">
