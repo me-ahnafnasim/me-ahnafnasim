@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="./assets/hero-v6.svg" width="100%" alt="Ahnaf Nasim, full-stack engineer and founder building EdTech SaaS, B2B commerce and growth engines" />
-</p>
-
-<p align="center">
-  Full-stack engineer focused on system design, performance optimization, and workflow automation. I build data-driven applications that simplify complex business processes and turn ideas into practical software solutions.
+  <img src="./assets/hero-v7.svg" width="100%" alt="Ahnaf Nasim, full-stack engineer and founder building EdTech SaaS, B2B commerce and growth engines" />
 </p>
 
 <p align="center">
