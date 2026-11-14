@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahnaf-nasim-b8abb2207"><img src="./assets/contact-linkedin.svg" height="56" alt="LinkedIn: ahnaf-nasim" /></a>
-  <a href="https://www.instagram.com/ahnafnasim/"><img src="./assets/contact-instagram.svg" height="56" alt="Instagram: @ahnafnasim" /></a>
-  <a href="mailto:me.ahnafnasim@gmail.com"><img src="./assets/contact-gmail.svg" height="56" alt="Gmail: me.ahnafnasim@gmail.com" /></a>
+  <a href="https://www.linkedin.com/in/ahnaf-nasim-b8abb2207"><picture><source media="(min-width: 768px)" srcset="https://github.com/me-ahnafnasim/me-ahnafnasim/raw/main/assets/contact-linkedin.svg" /><img src="./assets/contact-linkedin-sm.svg" alt="LinkedIn: ahnaf-nasim" /></picture></a>
+  <a href="https://www.instagram.com/ahnafnasim/"><picture><source media="(min-width: 768px)" srcset="https://github.com/me-ahnafnasim/me-ahnafnasim/raw/main/assets/contact-instagram.svg" /><img src="./assets/contact-instagram-sm.svg" alt="Instagram: @ahnafnasim" /></picture></a>
+  <a href="mailto:me.ahnafnasim@gmail.com"><picture><source media="(min-width: 768px)" srcset="https://github.com/me-ahnafnasim/me-ahnafnasim/raw/main/assets/contact-gmail.svg" /><img src="./assets/contact-gmail-sm.svg" alt="Gmail: me.ahnafnasim@gmail.com" /></picture></a>
 </p>
 
 
