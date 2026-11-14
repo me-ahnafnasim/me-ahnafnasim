@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero-v8.svg" width="100%" alt="Ahnaf Nasim, full-stack engineer and founder building EdTech SaaS, B2B commerce and growth engines" />
+  <img src="./assets/hero-v9.svg" width="100%" alt="Ahnaf Nasim, full-stack engineer and founder building EdTech SaaS, B2B commerce and growth engines" />
 </p>
 
 <p align="center">
